@@ -1,0 +1,49 @@
+{
+    "nieuws":
+    [
+        {
+            "titel": "Op dit tropische eiland kan je zwemmen tussen de flamingo's",
+            "id": 211,
+            "datum": "22.05.17",
+            "categorieen": ["Lifestyle"],
+            "samenvatting":"<b>Instagram goals!</b>",
+            "body": "<p>Vergeet opblaasbare flamingo’s, dit jaar reis je de roze vogels in levende lijve tegemoet én geniet je en passant ook nog eens van zon, zee en strand. Waar? Het Caraïbische Aruba Renaissance Resort heeft een eigen privé-eiland waar gasten kunnen genieten van een strandspa, tennisveld op zand, BBQ spot én een yoga platform. Leuk extraatje: het eiland wordt bewoond door een kolonie roze flamingo’s die mens- noch mediaschuw zijn en gezellig pootjebaden tussen de dobberende gasten.</p>",
+            "afbeeldingl": "flamingo_eiland_caraiben_aruba_renaissance_beach_resort_14.png",
+            "afbeeldings": "flamingo_eiland_caraiben_aruba_renaissance_beach_resort.jpg",
+            "link":"http://www.elle.be/nl/188264-tropisch-eiland-zwemmen-flamingos-caraiben-instagram-goals-aruba-renaissance-resort.html"
+        },
+        {
+            "titel": "Helix tattoo: waarom influencers massaal deze gekke plek laten tatoeëren",
+            "id": 212,
+            "datum": "17.05.17",
+            "categorieen": ["Beauty"],
+            "samenvatting":"<b>Vergeet de binnenkant van je pols: kleine, delicate tattoo’s horen voortaan thuis òp je oor!</b>",
+            "body": "<p>Vergeet de binnenkant van je pols: kleine, delicate tattoo’s horen voortaan thuis òp je oor! Je leest het goed: Instagram wordt overrompeld met prachtige voorbeelden van de #helixtatt, een discrete tekening op de buitenste oorrand -de zogenaamde “helix”. Piercings en ear cuffs hebben er met andere woorden een geduchte concurrent bij. Geen idee hoe ze het doen, maar tattoo artiesten slagen er wereldwijd in prachtige bloemendesigns, dierenprints en minimalistische details op het flinterdunne stukje vel te plaatsen. Gekleurd of niet, de trend lijkt vooral bij de minimalisten een gevoelige snaar te raken.</p>",
+            "afbeeldingl": "helix_tattoo_instagram_artist_trend_.jpg",
+            "afbeeldings": "helix_tattoo_instagram_artist_trend_.jpg",
+            "link":"http://www.elle.be/nl/187087-helix-tattoo-influencers-instagram-inspiratie.html"
+        },
+        {
+            "titel": "Levi’s 501 viert verjaardag met limited edition collectie",
+            "id": 210,
+            "datum": "20.05.17",
+            "categorieen": ["Fashion"],
+            "samenvatting": "<b>Op 20 mei 1873 introduceerde Levi’s de Levi's 501. Deze eenvoudige jeans zou een grote impact hebben op hoe mensen zich kleden. Nu viert Levi’s deze verjaardag met de Levi’s 501 ® Day, die volledig in het teken staat van de iconische jeans.</b>",
+            "body": "<p>Speciaal voor deze gelegenheid heeft Levi’s een unieke 501® documentaire gemaakt, die je terugvindt op de website van Levi’s. De 5de episode uit de reeks wordt vandaag gelanceerd en kan je hieronder bekijken. In deze episode wordt de relatie tussen muziekgeschiedenis en de Levi’s 501 onderstreept. Zo zie je artiesten als Solange en Snoop Dogg voorbij komen, die hun persoonlijke visie op de impact van de iconische jeans beschrijven:</p>",
+            "afbeeldingl": "levis_501.png",
+            "afbeeldings": "levis_501_verjaardag.jpg",
+            "link":"http://www.elle.be/nl/187988-levis-501-viert-verjaardag-limited-edition-collectie.html"
+        },
+        {
+            "titel": "Hier kan je een marmeren laptopcase shoppen",
+            "id": 198,
+            "datum": "18.05.17",
+            "categorieen": ["Lifestyle"],
+            "samenvatting": "<b>Ben je ook zo gek op all things marble? Goed nieuws: Bambooti brengt een uitgebreide collectie laptop- en smartphonecovers uit in steen, volledig handgemaakt en helemaal uniek.</b>",
+            "body": "<p>De Limburgse start-up bracht twee jaar geleden al handgemaakte houten covers voor smartphones en Macbooks op de markt. Nu zijn de jonge ondernemers klaar om nog een stap verder te gaan: een collectie van handgemaakte en unieke cases in steen. Alle covers zijn vervaardigd uit échte natuursteen, afkomstig uit verscheidene groeven over de hele wereld. Hierdoor verschilt ieder stuk in kleur en textuur en zal je niemand spotten die dezelfde cover heeft als jij.Alle covers zijn vanaf 16 mei beschikbaar op Kickstarter aan voordeligere prijzen. Zo betaal je slechts €35 (in plaats van €55) voor een smartphone case en heb je een MacBook cover voor €55 (in plaats van €90).</p>",
+            "afbeeldingl": "bambootie_cover.jpg",
+            "afbeeldings": "autumn_stone.png",
+            "link":"http://www.elle.be/nl/187240-hier-marmeren-laptopcase-shoppen.html"
+        }
+    ]
+}

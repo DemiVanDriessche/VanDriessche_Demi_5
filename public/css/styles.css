@@ -1,0 +1,122 @@
+body {
+  font-family: helvetica;
+  width: 90%;
+  margin: 25px auto;
+  line-height: 1.4em;
+}
+
+section {
+  margin: 25px 0;
+  width: 900px;
+  margin: auto;
+  border-bottom:1px solid black;
+}
+
+img {
+  max-width: 100%;
+}
+
+p {
+  margin: 10px 0;
+}
+
+h2 {
+  margin: 25px 0;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+h2 a {
+  text-decoration: none;
+  color: grey;
+  font-weight: normal;
+}
+
+h2 a:hover {
+  text-decoration: line-through;
+  color: grey;
+}
+
+h3 {
+  display: inline;
+  background: yellow;
+}
+
+h4 {
+  padding: 30px 0px 0px;
+  font-family: 'Josefin Slab', serif;
+  font-size: 5em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+b {
+  font-weight: 700;
+}
+
+nav {
+height: 50px;
+margin: 50px 0px;
+background-color: black;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 a{
+  text-decoration: none;
+  background: black;
+  color:white;
+  max-width: 100%;
+  padding: 15px 60px;
+}
+
+nav a {
+  color: white;
+  display: inline-block;
+  margin-right: 10px;
+  margin-left: 20px;
+  margin-top: 14px;
+
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+nav a:hover {
+  text-decoration: line-through;
+}
+
+.fa {
+  text-decoration: none;
+  margin-right: 10px;
+  margin-top: 10px;
+  padding: 20px;
+  color:black;
+}
+
+/*tekst opmaak artikelen*/
+titel {
+  text-align: center;
+  text-transform: uppercase;
+  color: black;
+}
+
+titel:hover {
+  color: lightgrey;
+}
+
+categorieen {
+  font-family: Georgia;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: normal;
+  overflow: hidden;
+  text-align: center;
+  white-space: nowrap !important;
+}
