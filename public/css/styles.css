@@ -7,7 +7,6 @@ body {
 
 section {
   margin: 25px 0;
-  width: 900px;
   margin: auto;
   border-bottom:1px solid black;
 }
@@ -100,7 +99,7 @@ nav a:hover {
   color:black;
 }
 
-/*tekst opmaak artikelen*/
+/*tekst opmaak artikelen test*/
 titel {
   text-align: center;
   text-transform: uppercase;
@@ -120,3 +119,4 @@ categorieen {
   text-align: center;
   white-space: nowrap !important;
 }
+/*conclusie werkt niet*/
