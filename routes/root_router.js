@@ -3,8 +3,9 @@ var root = express.Router();
 
 root.get('/', function(req, res) {
   res.render("index", {
-    nieuws: req.app.get('nieuwsFile').nieuws,
+    kunst: req.app.get('kunstFile').kunst,
     categorieen: req.app.get('categorieenFile').categorieen
+
   });
 });
 

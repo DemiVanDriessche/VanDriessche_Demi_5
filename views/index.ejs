@@ -6,21 +6,22 @@
   <% } %>
 </nav>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!--zoekbalk werkt niet-->
+<!--
+<input type="text" id="myInput"  placeholder="Search for names.." title="Type in a name">
 
-  <% var teller = 1; %>
-  <% nieuws.forEach(function(item){ %>
+<table id="myTable">
+
+  <% kunst.forEach(function(item){ %>
+<div class="balk" id=<%- item.titel %>
+-->
+<% var teller = 1; %>
     <section>
+          <img src="/img/<%- item.afbeeldings %>" alt="<%- item.titel %>">
+
         <h2>
           <a href=/items/<%- item.id %>><%- item.titel %></a>
         </h2>
-        <img src="/img/<%- item.afbeeldings %>" alt="<%- item.titel %>">
-        <p><%- item.datum %></p>
-
-        <p>
-          <%- item.samenvatting %>
-        </p>
-
     </section>
     <% teller++;}); %>
 

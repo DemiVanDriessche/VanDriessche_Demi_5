@@ -2,20 +2,13 @@
 
 <h1><a href="/">Terug</a></h1>
 
-<h2>Nieuwsitems voor categorie <%- categorieen[id] %></h2>
-
   <% for (var i = 0; i < items.length; i++) { %>
     <% if (items[i].categorieen.indexOf(categorieen[id]) !== -1) { %>
       <section>
+          <img src="/img/<%- items[i].afbeeldings %>" alt="<%- items[i].titel %>">
           <h2>
             <a href=/items/<%- items[i].id %>><%- items[i].titel %></a>
           </h2>
-          <img src="/img/<%- items[i].afbeeldings %>" alt="<%- items[i].titel %>">
-          <p><%- items[i].datum %></p>
-
-          <p>
-            <%- items[i].samenvatting %>
-          </p>
       </section>
     <% } %>
   <% } %>
